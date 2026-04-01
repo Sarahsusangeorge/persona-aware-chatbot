@@ -1,0 +1,21 @@
+{
+  "personality_traits": [
+    "neutral"
+  ],
+  "tone_preference": "neutral",
+  "communication_style": "balanced",
+  "emotional_tendency": "neutral",
+  "summary": "Chat history: [substeps] [substeps] [substeps] [substeps] [substeps] [substeps]",
+  "raw_history": [
+    "Hey! How's it going?",
+    "I'm doing great, thanks for asking! Just got back from a hike.",
+    "That sounds awesome! Where did you go?",
+    "I went to the local nature reserve. The wildflowers are blooming right now!",
+    "Oh I love that place! We should go together sometime.",
+    "Absolutely! I'm always down for outdoor adventures.",
+    "Do you do any other outdoor stuff?",
+    "Yeah! I go rock climbing on weekends and I've been getting into kayaking lately.",
+    "That's so cool. I've always wanted to try kayaking.",
+    "You totally should! I can lend you my spare paddle."
+  ]
+}

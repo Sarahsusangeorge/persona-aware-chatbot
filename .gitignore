@@ -1,0 +1,29 @@
+# Environment & secrets
+.env
+.env.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Models & data (too large for git)
+lora_adapters/
+models/
+data/personachat/
+*.bin
+*.pt
+*.safetensors
+
+# IDE & editor
+.cursor/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

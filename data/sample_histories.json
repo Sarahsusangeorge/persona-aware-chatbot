@@ -1,0 +1,122 @@
+{
+  "friendly_casual": [
+    "Hey! How's it going?",
+    "I'm doing great, thanks for asking! Just got back from a hike.",
+    "That sounds awesome! Where did you go?",
+    "I went to the local nature reserve. The wildflowers are blooming right now!",
+    "Oh I love that place! We should go together sometime.",
+    "Absolutely! I'm always down for outdoor adventures.",
+    "Do you do any other outdoor stuff?",
+    "Yeah! I go rock climbing on weekends and I've been getting into kayaking lately.",
+    "That's so cool. I've always wanted to try kayaking.",
+    "You totally should! I can lend you my spare paddle."
+  ],
+  "formal_professional": [
+    "Good afternoon. I wanted to discuss the quarterly report.",
+    "Certainly. I have reviewed the preliminary figures and they appear promising.",
+    "Could you elaborate on the revenue projections?",
+    "The projections indicate a 12% increase over the previous quarter, driven primarily by the new product line.",
+    "That is encouraging. Please prepare a detailed summary for the board.",
+    "I will have the comprehensive report ready by end of business Friday.",
+    "Furthermore, I would like to address the staffing concerns raised last week.",
+    "Regarding that matter, I have drafted a proposal to onboard additional personnel in Q2.",
+    "Excellent. Kindly include a budget analysis with the proposal.",
+    "Certainly. I shall ensure it is thorough and accounts for all contingencies."
+  ],
+  "empathetic_supportive": [
+    "I've been feeling really overwhelmed lately.",
+    "I'm sorry to hear that. It's completely valid to feel that way sometimes.",
+    "I just have so much on my plate right now.",
+    "That sounds really tough. Would it help to talk through what's weighing on you most?",
+    "I think work stress is the biggest thing.",
+    "I understand. Remember it's okay to set boundaries and ask for help when you need it.",
+    "I feel like people will judge me if I say I can't handle it.",
+    "You're not alone in feeling that way, but asking for support is a sign of strength, not weakness.",
+    "Thanks, that actually helps to hear.",
+    "I'm glad. Please don't hesitate to reach out whenever you need someone to listen."
+  ],
+  "sarcastic_witty": [
+    "Did you see the new company policy?",
+    "Oh yes, nothing says 'we trust our employees' like mandatory fun activities.",
+    "Ha! At least they're trying.",
+    "Sure, the same way a toddler tries to cook dinner. The intent is there, the execution... not so much.",
+    "You're terrible!",
+    "I prefer 'refreshingly honest,' but I'll accept terrible.",
+    "What about the new open-plan office?",
+    "Ah yes, because what every introvert dreams of is having zero personal space. Genius move.",
+    "You have an opinion on everything, don't you?",
+    "I prefer to call it 'a well-curated perspective on the absurdity of modern work life.'"
+  ],
+  "analytical_curious": [
+    "Have you looked into the new machine learning framework?",
+    "Yes, I've been running benchmarks comparing it against PyTorch. The results are interesting.",
+    "What did you find?",
+    "Training throughput is about 15% higher on transformer models, but the memory footprint is larger.",
+    "Is the memory trade-off worth it?",
+    "It depends on your hardware. On GPUs with 24GB+ VRAM it's a clear win. Below that, you'll hit OOM issues.",
+    "What about the developer experience?",
+    "The API is cleaner but the ecosystem is still immature. Debugging tools are limited.",
+    "So it's promising but not production-ready?",
+    "Exactly. I'd keep an eye on it for 2027, but stick with established tools for now."
+  ],
+  "mixed_personality": [
+    "I can't believe they cancelled the concert!",
+    "What?! That's so frustrating. I was really looking forward to it.",
+    "Same here. I already bought the tickets and everything.",
+    "Ugh, that's the worst. Did they at least offer refunds?",
+    "Yeah, eventually. After I sat on hold for 45 minutes.",
+    "Of course. Nothing says 'customer service' like making you wait forever.",
+    "Ha, true. But honestly I'm just bummed about it.",
+    "I get it. Maybe we can find something else fun to do that weekend instead?",
+    "That would be nice. Any ideas?",
+    "There's a food festival downtown! Tacos, live music, and zero risk of cancellation."
+  ],
+  "mental_health_support": [
+    "I've been having panic attacks at work lately.",
+    "I'm really sorry you're going through that. Panic attacks can be terrifying.",
+    "They are. I feel like I can't breathe and everything is closing in.",
+    "That sounds incredibly distressing. Have you been able to talk to anyone about this?",
+    "No, I'm scared people will think I'm weak.",
+    "Reaching out takes real courage. Your feelings are valid and you deserve support.",
+    "Do you think therapy would help?",
+    "Many people find therapy really helpful for managing panic attacks. It's worth exploring.",
+    "I guess I should look into it.",
+    "That's a great step. There are also some breathing techniques that can help in the moment."
+  ],
+  "customer_support_interaction": [
+    "My order hasn't arrived and it's been two weeks.",
+    "I sincerely apologize for the inconvenience. Let me look into your order status right away.",
+    "The tracking hasn't updated since last Monday.",
+    "I understand your frustration. A stalled tracking number usually means the package is in transit between facilities.",
+    "Can I get a refund if it doesn't show up?",
+    "Absolutely. If your order doesn't arrive within 3 business days, we'll issue a full refund.",
+    "What about the shipping cost?",
+    "The shipping cost will also be fully refunded, and we'll expedite a replacement at no extra charge.",
+    "That sounds fair. Thank you.",
+    "You're welcome. I'll send you a confirmation email with the details. Is there anything else I can help with?"
+  ],
+  "educational_tutoring": [
+    "I don't understand how neural networks learn.",
+    "Great question! Think of it like adjusting dials on a radio to find the right station.",
+    "What are the dials?",
+    "The dials are called weights and biases. The network adjusts them during training to get better predictions.",
+    "How does it know which way to adjust them?",
+    "It uses something called backpropagation, which calculates how much each weight contributed to the error.",
+    "Is that like gradient descent?",
+    "Exactly! Gradient descent is the algorithm that tells us the direction and size of each adjustment.",
+    "So it's basically trial and error?",
+    "Smart trial and error! Each iteration uses math to make the adjustments smaller and more precise."
+  ],
+  "gaming_npc_dialogue": [
+    "Hail, traveler! What brings you to the village of Thornwick?",
+    "I'm looking for the ancient sword of Avalon.",
+    "Ah, you seek the Blade of Dawn. Many have tried. Few have returned.",
+    "Where can I find it?",
+    "The sword lies deep within the Caverns of Echoing Shadows, beyond the Whispering Forest.",
+    "Is it dangerous?",
+    "More than you know, adventurer. Shadow wraiths guard the entrance, and the caverns shift like living stone.",
+    "I'm not afraid. What do I need?",
+    "Courage is a start. You'll also need the Lantern of Truth from the temple ruins to navigate the darkness.",
+    "Then that's where I'll go first. Thank you, elder."
+  ]
+}

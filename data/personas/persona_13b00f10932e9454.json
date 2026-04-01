@@ -1,0 +1,21 @@
+{
+  "personality_traits": [
+    "neutral"
+  ],
+  "tone_preference": "neutral",
+  "communication_style": "balanced",
+  "emotional_tendency": "neutral",
+  "summary": "Chat history: Did you see the new company policy? Oh yes, nothing says 'we trust our employees' like mandatory fun activities. Ha! At least they're trying. Sure, the same way a toddler tries to cook dinner. The intent is there, the execution... not so much. You're terrible! I prefer 'refreshingly honest,' but I'll accept terrible. What about the new open-plan office? Ah yes, because what every introvert dreams of is having zero personal space. Genius move. You have an opinion on everything, don't you? I prefer to call it 'a well-curated perspective on the absurdity of modern work life'",
+  "raw_history": [
+    "Did you see the new company policy?",
+    "Oh yes, nothing says 'we trust our employees' like mandatory fun activities.",
+    "Ha! At least they're trying.",
+    "Sure, the same way a toddler tries to cook dinner. The intent is there, the execution... not so much.",
+    "You're terrible!",
+    "I prefer 'refreshingly honest,' but I'll accept terrible.",
+    "What about the new open-plan office?",
+    "Ah yes, because what every introvert dreams of is having zero personal space. Genius move.",
+    "You have an opinion on everything, don't you?",
+    "I prefer to call it 'a well-curated perspective on the absurdity of modern work life.'"
+  ]
+}
